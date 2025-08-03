@@ -1,1 +1,1 @@
-web: node twilio-server.js
+web: node debug-server.js
