@@ -1,1 +1,1 @@
-web: node luma-prompt-server.js
+web: node test-health-server.js
